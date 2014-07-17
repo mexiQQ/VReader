@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="ctype">
+        <item>字体大小</item>
+        <item>图像加载</item>
+        <item>检查更新</item>
+        <item>清除缓存</item>
+    </string-array>
+    <string-array name="Titles">
+        <item>主页</item>
+        <item>新闻板块</item>
+        <item>查询</item>
+        <item>更多</item>
+    </string-array>
+</resources>

@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//src/com/vreader/activity/MainActivity.java=UTF-8
+encoding//src/com/vreader/activity/NewsModuleActivity.java=UTF-8
+encoding//src/com/vreader/activity/UserActivity.java=UTF-8
+encoding//src/com/vreader/activity/WebviewActivity.java=UTF-8
+encoding//src/com/vreader/app/zxing/view/ViewfinderView.java=UTF-8
+encoding//src/com/vreader/fragment/HomeFragment.java=utf-8
+encoding//src/com/vreader/fragment/ModuleFragment.java=UTF-8
+encoding//src/com/vreader/fragment/NavigationDrawerFragment.java=UTF-8
+encoding//src/com/vreader/keep/AccessTokenKeeper.java=utf-8
+encoding//src/com/vreader/keep/UserInfoKeeper.java=utf-8
+encoding//src/com/vreader/service/NewsService.java=UTF-8
+encoding//src/com/vreader/utils/HttpUtils.java=UTF-8
+encoding//src/com/vreader/utils/Listener.java=UTF-8
+encoding//src/com/vreader/utils/RefreshableView.java=UTF-8
+encoding//src/com/vreader/utils/RequestListener.java=utf-8
+encoding/<project>=UTF-8
